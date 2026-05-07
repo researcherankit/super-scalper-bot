@@ -1,0 +1,19 @@
+algo_bot/
+
+│
+
+├── data/
+
+├── replay/
+
+├── strategies/
+
+├── broker/
+
+├── analytics/
+
+├── charts/
+
+├── logs/
+
+└── main.py
